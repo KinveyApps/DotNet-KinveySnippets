@@ -1,0 +1,4 @@
+**/.vs/**/**/xs
+**/obj
+**/bin
+**.csproj.user
